@@ -1,0 +1,81 @@
+body {
+    /* background-color: #121212;*/
+    background-color: #202020;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0cm;
+
+}
+
+.header {
+    text-align: center;
+    color: white;
+    background-color: #b36500;
+    padding-bottom: 8cm;
+    padding-top: 2.5cm;
+}
+
+.header2 {
+    text-align: center;
+    color: white;
+    padding-bottom: 8cm;
+    padding-top: 2.5cm;
+}
+
+
+.bottom_bar {
+    text-align: center;
+    color: white;
+    background-color: orange;
+    padding-bottom: 4cm;
+    padding-top: 2.3cm;
+}
+a {
+    display: inline-block;
+    color: rgb(208, 158, 255);
+}
+
+.jobs {
+    background-color: #363636;
+    margin: 0cm;
+}
+
+.perks_benefits {
+    color: white;
+    background-color: #b36500;
+}
+
+.text {
+    color: white;
+    text-align: center;
+    font-size: large;
+
+}
+
+.title {
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+button {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+}
+  
+/* .button1 {border-radius: 2px;}
+.button2 {border-radius: 4px;}
+.button3 {border-radius: 8px;}
+.button4 {border-radius: 12px;}
+.button5 {border-radius: 50%;} */
+
+.white {
+    color: white;
+  }
