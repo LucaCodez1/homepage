@@ -21,14 +21,12 @@ body {
     padding-top: 2.5cm;
 }
 
-
-.bottom_bar {
-    text-align: center;
+footer {
+    padding: 10px 20px;
+    background-color: #121212;
     color: white;
-    background-color: orange;
-    padding-bottom: 4cm;
-    padding-top: 2.3cm;
-}
+  }
+
 a {
     display: inline-block;
     color: rgb(208, 158, 255);
@@ -58,7 +56,7 @@ a {
 }
 
 button {
-    background-color: #04AA6D;
+    background-color: #202020;
     border: none;
     color: white;
     padding: 20px;
