@@ -1,4 +1,4 @@
 function jobRedirect() {
-    window.location.href = "shome where idk?"
+    window.location.href = "https://jobs.tacobyte.dev"
 }
 

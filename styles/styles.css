@@ -21,6 +21,14 @@ body {
     padding-top: 2.5cm;
 }
 
+.joinbeta {
+    text-align: center;
+    color: white;
+    background-color: #98c1d9;
+    padding-bottom: 8cm;
+    padding-top: 2.5cm;
+}
+
 footer {
     padding: 10px 20px;
     background-color: #121212;
