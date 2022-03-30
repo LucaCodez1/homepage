@@ -13,3 +13,7 @@ function githubRedirect() {
 function betaSignup() {
     window.location.href = "/pages/signup.html"
 }
+
+function betaJoin() {
+    window.location.href = "/pages/join.html"
+}
