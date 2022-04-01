@@ -124,3 +124,16 @@ button {
 .undertext {
     font-family: 'Montserrat', sans-serif;
 }
+
+.about {
+    background-color: #b36500;
+    text-align: center;
+    color: white;
+    padding-top: 7.7cm;
+    padding-bottom: 5.8cm;
+}
+
+.left {
+    text-align: left;
+    color: white;
+}
