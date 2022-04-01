@@ -17,3 +17,7 @@ function betaSignup() {
 function betaJoin() {
     window.location.href = "/pages/join.html"
 }
+
+function homepage() {
+    window.location.href = "htpps://tacobyte.dev"
+}
